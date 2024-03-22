@@ -1,0 +1,4 @@
+QA Metrics
+	-Alcance de las pruebas
+	-Inconvenientes
+	-Casos de uso
