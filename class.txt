@@ -1,4 +1,13 @@
-QA Metrics
-	-Alcance de las pruebas
-	-Inconvenientes
-	-Casos de uso
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
